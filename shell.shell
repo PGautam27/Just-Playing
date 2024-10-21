@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "Hello kitty"
+
+echo "My name is pritam"
+echo "what is your name"
